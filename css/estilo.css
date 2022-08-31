@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px){
+	.navbar-brand{width: 60%;}
+}
+.centrar{text-align: center;}
+@media only screen and (max-width: 1024px){
+	.navbar-collapse {
+		justify-content: flex-end;
+	}
+}
+.bgColor{
+	color: var(--bs-red);
+}
+
+.parraf{
+	font-size: 1.5rem;
+	padding-left: 2rem;
+
+}
+body{
+	background-color:#C3BABA;
+}
+
+img{
+	border-radius: 70px;
+}
+.tittle{
+	color: var(--bs-danger);
+}
+
