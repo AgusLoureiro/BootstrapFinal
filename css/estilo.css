@@ -20,10 +20,25 @@ body{
 	background-color:#C3BABA;
 }
 
-img{
+/* img{
 	border-radius: 70px;
-}
+} */
 .tittle{
 	color: var(--bs-danger);
 }
 
+.ubi{
+	text-align: center;
+	color: var(--bs-danger)
+}
+.textUbi{
+	font-size: 1.5rem;
+}
+.maps{
+	display: flex;
+	align-items: center;
+	margin: 5;
+}
+.card-body{
+
+}
